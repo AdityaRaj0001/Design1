@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.verticaltext{
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #fff;
+
+}
+
+
+
